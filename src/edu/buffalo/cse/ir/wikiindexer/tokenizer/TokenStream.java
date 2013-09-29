@@ -44,7 +44,7 @@ public class TokenStream implements Iterator<String>{
 	 * This map should contain the unique set of tokens as keys
 	 * The values should be the number of occurrences of the token in the given stream
 	 * @return The map as described above, no restrictions on ordering applicable
-	 */
+	 */ 
 	public Map<String, Integer> getTokenMap() {
 		//TODO: Implement this method
 		return null;
